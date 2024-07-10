@@ -1,0 +1,23 @@
+.wrapper {
+    width: 400px;
+}
+
+.row {
+    height: 100px;
+    font-size: 50px;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    text-align: right;
+}
